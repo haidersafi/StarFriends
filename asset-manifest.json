@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/StarFriends/static/css/main.b100e6da.chunk.css",
-    "main.js": "/StarFriends/static/js/main.b0dabe19.chunk.js",
-    "main.js.map": "/StarFriends/static/js/main.b0dabe19.chunk.js.map",
+    "main.js": "/StarFriends/static/js/main.75df8411.chunk.js",
+    "main.js.map": "/StarFriends/static/js/main.75df8411.chunk.js.map",
     "runtime-main.js": "/StarFriends/static/js/runtime-main.9001b758.js",
     "runtime-main.js.map": "/StarFriends/static/js/runtime-main.9001b758.js.map",
     "static/js/2.01feb8d9.chunk.js": "/StarFriends/static/js/2.01feb8d9.chunk.js",
     "static/js/2.01feb8d9.chunk.js.map": "/StarFriends/static/js/2.01feb8d9.chunk.js.map",
     "index.html": "/StarFriends/index.html",
-    "precache-manifest.b3baa2fc2171369e98d4dc8c5731899d.js": "/StarFriends/precache-manifest.b3baa2fc2171369e98d4dc8c5731899d.js",
+    "precache-manifest.2e99a02cb2a0839d9dc46d60623c600f.js": "/StarFriends/precache-manifest.2e99a02cb2a0839d9dc46d60623c600f.js",
     "service-worker.js": "/StarFriends/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/StarFriends/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/StarFriends/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9001b758.js",
     "static/js/2.01feb8d9.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.b0dabe19.chunk.js"
+    "static/js/main.75df8411.chunk.js"
   ]
 }
