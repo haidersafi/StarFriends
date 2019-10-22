@@ -22,7 +22,7 @@ class Charinfo extends Component{
 			return (
 			<div>
 			<p className='btn btn-danger' onClick={this.isClose}>Hide Info</p>
-			<div className="container bg-light"><ul className='lead text-warning pt-3 pb-3 '>
+			<div className="container bg-dark"><ul className='lead text-warning pt-3 pb-3 '>
 			<li>Gender: {gender}</li>
 			<li>BirthYear: {birth_year}</li>
 			<li>HairColor: {hair_color}</li></ul></div>
