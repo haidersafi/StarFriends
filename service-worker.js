@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/StarFriends/precache-manifest.5a777b245bc697ea2a82c78185e31d7a.js"
+  "/StarFriends/precache-manifest.b3baa2fc2171369e98d4dc8c5731899d.js"
 );
 
 self.addEventListener('message', (event) => {
