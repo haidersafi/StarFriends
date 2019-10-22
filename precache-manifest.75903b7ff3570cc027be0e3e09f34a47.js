@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29018726d473641c39b3503f9b07fdff",
+    "revision": "c28e3dca5d6890a0386d6221b477762d",
     "url": "/StarFriends/index.html"
   },
   {
-    "revision": "78b67d838622a32f35e7",
+    "revision": "701becabba94487c35f1",
     "url": "/StarFriends/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarFriends/static/js/2.01feb8d9.chunk.js"
   },
   {
-    "revision": "78b67d838622a32f35e7",
-    "url": "/StarFriends/static/js/main.75df8411.chunk.js"
+    "revision": "701becabba94487c35f1",
+    "url": "/StarFriends/static/js/main.53903891.chunk.js"
   },
   {
     "revision": "a0913e1283552be9c43d",
